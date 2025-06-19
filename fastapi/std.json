@@ -1,0 +1,48 @@
+{
+    "std": [
+        {
+            "id": 1,
+            "name": "John Smith",
+            "age": 20,
+            "grade": "A",
+            "courses": [
+                {
+                    "course_id": "CS101",
+                    "course_name": "Introduction to Programming",
+                    "score": 95
+                },
+                {
+                    "course_id": "MATH201",
+                    "course_name": "Calculus",
+                    "score": 88
+                }
+            ],
+            "contact": {
+                "email": "john.smith@example.com",
+                "phone": "123-456-7890"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Emma Davis",
+            "age": 19,
+            "grade": "B+",
+            "courses": [
+                {
+                    "course_id": "CS101",
+                    "course_name": "Introduction to Programming",
+                    "score": 85
+                },
+                {
+                    "course_id": "MATH201",
+                    "course_name": "Calculus",
+                    "score": 90
+                }
+            ],
+            "contact": {
+                "email": "emma.davis@example.com",
+                "phone": "098-765-4321"
+            }
+        }
+    ]
+}
